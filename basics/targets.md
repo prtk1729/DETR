@@ -2,7 +2,7 @@
 
 - [x] [00:00](https://www.youtube.com/watch?v=v900ZFKkWxA) DETR : End-to-end object detection with transformers
 - [x]  [00:51](https://www.youtube.com/watch?v=v900ZFKkWxA\&t=51s) High Level Overview of DETR Architecture
-- [ ]  [13:10](https://www.youtube.com/watch?v=v900ZFKkWxA\&t=790s) Backbone of Detection Transformer
+- [x]  [13:10](https://www.youtube.com/watch?v=v900ZFKkWxA\&t=790s) Backbone of Detection Transformer
 - [ ]  [14:35](https://www.youtube.com/watch?v=v900ZFKkWxA\&t=875s) Detr Transformer Encoder
 - [ ]  [19:07](https://www.youtube.com/watch?v=v900ZFKkWxA\&t=1147s) Detr Transformer Decoder
 - [ ]  [26:00](https://www.youtube.com/watch?v=v900ZFKkWxA\&t=1560s) Hungarian matching for Detr Object Detection
